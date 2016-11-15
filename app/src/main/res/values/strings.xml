@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Record Player</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <!-- TODO: make these related to crackle sound -->
+    <array name="pref_crackle_titles">
+        <item>None</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </array>
+    <array name="pref_crackle_values">
+        <item>None</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </array>
+    <string name="pref_crackle_title">Amount of crackle</string>
+    
+    <!-- Main activity strings -->
+    <string name="song_select_button_title">Select song</string>
+    
+</resources>
